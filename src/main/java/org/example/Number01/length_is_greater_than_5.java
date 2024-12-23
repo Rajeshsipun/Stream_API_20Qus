@@ -19,7 +19,7 @@ public class length_is_greater_than_5 {
 }
 
 //List<String>:
-//We create a list of strings containing words like "apple", "banana", and "cherry".
+//We create a list of strings containing words like "Lovely", "Monaranjan".
 //This is our input data.
 
 
