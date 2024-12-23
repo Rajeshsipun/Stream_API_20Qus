@@ -1,4 +1,4 @@
-package org.example.Number02;
+package org.example.Number01;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,7 +11,7 @@ public class find_the_maximum_number {
     public static void main(String[] args) {
 
         // Create a list of integers
-        List<Integer> numbers = Arrays.asList(5, 8, 12, 3, 7, 15, 17, 2);
+        List<Integer> numbers = Arrays.asList(5, 8, 12, 3, 7, 17, 2);
 
         Optional<Integer>maxNumber = numbers.stream()   // Step 1: Convert the list into a stream
                 .max(Integer::compareTo);             // Step 2: Find the maximum value
