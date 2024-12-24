@@ -1,4 +1,4 @@
-package org.example.Number01;
+package org.example.Stream_API_questions;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;

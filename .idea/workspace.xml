@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f07bd074-d289-42ba-b63c-3f5a4ef55ff4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/Concatenate_them_into_a_single_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Stream_API_questions/Convert_them_all_to_uppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Stream_API_questions/Find_the_average_of_all_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/find_the_maximum_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/find_the_maximum_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/length_is_greater_than_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/length_is_greater_than_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/Concatenate_them_into_a_single_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Stream_API_questions/Concatenate_them_into_a_single_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/find_the_maximum_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Stream_API_questions/find_the_maximum_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/length_is_greater_than_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Stream_API_questions/length_is_greater_than_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Concatenate_them_into_a_single_string.executor": "Run",
+    "Application.Convert_them_all_to_uppercase.executor": "Run",
+    "Application.Find_the_average_of_all_numbers.executor": "Run",
     "Application.find_the_maximum_number.executor": "Run",
     "Application.length_is_greater_than_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

@@ -1,7 +1,7 @@
-package org.example.Number01;
+package org.example.Stream_API_questions;
 import java.util.Arrays;
 import java.util.List;
-//Given a list of strings, find the count of strings whose length is greater than 5.
+//1.Given a list of strings, find the count of strings whose length is greater than 5.
 
 public class length_is_greater_than_5 {
     public static void main(String[] args) {

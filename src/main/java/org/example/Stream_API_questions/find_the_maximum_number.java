@@ -1,10 +1,10 @@
-package org.example.Number01;
+package org.example.Stream_API_questions;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
-//Given a list of integers, find the maximum number.
+//2. Given a list of integers, find the maximum number.
 
 public class find_the_maximum_number {
 
