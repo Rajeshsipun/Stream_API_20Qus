@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f07bd074-d289-42ba-b63c-3f5a4ef55ff4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/Concatenate_them_into_a_single_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/find_the_maximum_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/find_the_maximum_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/length_is_greater_than_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Number01/length_is_greater_than_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +25,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Stream_API_20Qus" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2qbzYLwwNY8FkVeXQKRvZHHWc0V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Concatenate_them_into_a_single_string.executor": "Run",
     "Application.find_the_maximum_number.executor": "Run",
     "Application.length_is_greater_than_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

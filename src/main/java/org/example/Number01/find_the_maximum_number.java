@@ -14,7 +14,7 @@ public class find_the_maximum_number {
         List<Integer> numbers = Arrays.asList(5, 8, 12, 3, 7, 17, 2);
 
         Optional<Integer>maxNumber = numbers.stream()   // Step 1: Convert the list into a stream
-                .max(Integer::compareTo);             // Step 2: Find the maximum value
+                .max(Integer :: compareTo);             // Step 2: Find the maximum value
 
         // Print the result
         maxNumber.ifPresent(max -> System.out.println("Maximum number is: " + max));

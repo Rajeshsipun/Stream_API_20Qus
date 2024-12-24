@@ -23,18 +23,18 @@ public class length_is_greater_than_5 {
 //This is our input data.
 
 
-//strings.stream():
+//ls.stream():
 //- The stream() method converts the list into a Stream object.
-//-A stream allows you to perform functional-style operations like filtering,
+//- A stream allows you to perform functional-style operations like filtering,
 // mapping, and counting on the elements of the list.
 
 
 //filter(str -> str.length() > 5):
 //- filter() is an intermediate operation that processes each element of the stream.
-//- The condition str.length() > 5 checks if the length of each string is greater than 5.
+//- Then after the condition str.length() > 5 it's checks if the length of each string is greater than 5.
 
 //For example:
-//"sagar" has a length of 5 → Excluded.
+//"sagar" has a length of 5 → It is not approved. because it's length not greater then 5.
 //"Lovely" has a length of 6 → Included.
 //"Monaranjan" has a length of 10 → Included.
 //- After filtering, the stream contains only the strings "Lovely", and "Monaranjan".
