@@ -10,10 +10,10 @@ public class Concatenate_them_into_a_single_string {
 
         // - I'm get created Create a list of strings
         //because Understanding the Input (List of Strings)
-        //A list of strings can be created....
+        //A list of strings can be created elements ....
         List<String> stringList = Arrays.asList("Rajesh", "Kumar", "Behera");
 
-        // Concatenate all strings into a single string
+        // Concatenate all strings into a single stringS
         String result = stringList.stream()   //- I'm Using .stream() : The stream() method converts the list into a stream.
                                                                       // A stream is like a sequence of elements (in this case, strings)
                                                                    // Then i  can process one by one.
