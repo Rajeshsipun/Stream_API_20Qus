@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f07bd074-d289-42ba-b63c-3f5a4ef55ff4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Logical_questions/Anagram_Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Logical_questions/Check_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Logical_questions/Duplicate_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Logical_questions/Longest_SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Logical_questions/Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Stream_API_questions/Concatenate_them_into_a_single_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream_API_20Qus/src/main/java/org/example/Stream_API_questions/Concatenate_them_into_a_single_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,8 @@
     "Application.Convert_them_all_to_uppercase.executor": "Run",
     "Application.Duplicate_Array.executor": "Run",
     "Application.Find_the_average_of_all_numbers.executor": "Run",
+    "Application.Longest_SubString.executor": "Run",
+    "Application.Sorted_Array.executor": "Run",
     "Application.find_the_maximum_number.executor": "Run",
     "Application.length_is_greater_than_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
